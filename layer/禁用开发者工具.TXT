@@ -1,5 +1,5 @@
 <script src="https://cdn.jsdelivr.net/gh/wangkai6688/web/layer/layer.js"></script>
-//这里设置为你自己的layer.js所在位置
+//这里是layer.js的所在位置
 <script type="text/javascript">
 <!--复制弹框-->
 document.body.oncopy = function() {layer.msg('复制成功，若要转载请务必保留本文链接！');};
