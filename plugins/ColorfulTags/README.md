@@ -1,19 +1,20 @@
-﻿# Typecho-ColorfulTags-For-Handsome
+# Typecho-ColorfulTags
 
-Handsome主题专用彩色3D标签云插件，一键生成好看的彩色3D标签云
+彩色3D标签云插件，一键生成好看的彩色3D标签云
 
 ![效果图][1]![效果图][2]![效果图][3]
 
 ## 食用方法
 
-解压后重命名为ColorfulTags文件，到后台根据需要完成设置即可
-![Handsome版后台设置][4]
+ 1. 解压后重命名为ColorfulTags文件
+ 2. 在插件设置中设置标签云容器CSS选择器
+![通用版版后台设置][4]
 
 ## 插件地址
 
-Github地址：<https://github.com/invelop/Typecho-ColorfulTags-For-Handsome>
+Github地址：<https://github.com/invelop/Typecho-ColorfulTags>
 
-码云地址：<https://gitee.com/invelop/Typecho-ColorfulTags-For-Handsome>
+码云地址：<https://gitee.com/invelop/Typecho-ColorfulTags>
 
 项目主页：<https://blog.irow.top/archives/396.html>
 
@@ -25,4 +26,4 @@ Github地址：<https://github.com/invelop/Typecho-ColorfulTags-For-Handsome>
 [1]: https://cdn.irow.top/blog/2020/01/1814463442.png
 [2]: https://cdn.irow.top/blog/2020/01/1934395081.png
 [3]: https://cdn.irow.top/blog/2020/01/503948933.png
-[4]: https://cdn.irow.top/blog/2020/01/1879372545.png
+[4]: https://cdn.irow.top/blog/2020/01/3560795202.png
