@@ -30,7 +30,7 @@ $(document).ready(function() {
         var wt = $("body").width();
         if (wt < 750 || wt == 750) {
             //window.location.href = "https://tianqi.qq.com/";
-            window.location.href = "/weather/";
+            window.location.href = "https://heweather.com/";
         }
     });
 });
