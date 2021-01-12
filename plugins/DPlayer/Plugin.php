@@ -166,7 +166,7 @@ EOF;
 
     public static function addEditorButton()
     {
-        $dir = Helper::options()->pluginUrl . '/DPlayer/assets/editor.js';
+        $dir = "https://cdn.jsdelivr.net/gh/wangkai6688/web/plugins/DPlayer/assets/editor.js";
         echo "<script type=\"text/javascript\" src=\"{$dir}\"></script>";
     }
 
